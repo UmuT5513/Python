@@ -1,3 +1,3 @@
 python hakkında kodlar, scriptler, mini projeler ...
 
-çakışma
+yedek branch
