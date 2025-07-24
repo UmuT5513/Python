@@ -1,5 +1,3 @@
 python hakkında kodlar, scriptler, mini projeler …
 
 değişiklik uygulandı!.
-
-selam!
