@@ -1,3 +1,4 @@
 python hakkında kodlar, scriptler, mini projeler ...
 
-main branch
+yedek branch
+
