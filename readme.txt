@@ -1,4 +1,3 @@
-python hakkında kodlar, scriptler, mini projeler ...
+"calculator"
 
-yedek branch
-
+python hesap makinesi
